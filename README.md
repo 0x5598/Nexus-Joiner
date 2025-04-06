@@ -1,5 +1,11 @@
 # Preview
 ![image](https://github.com/user-attachments/assets/aaec71bc-7bbd-4ced-915c-3dd3f5ae3686)
+# Features
+
+| Option | Description |
+| ------ | ----------- |
+| **restorecord bypass** | Auto verify in [restorecord](https://restorecord.com/). |
+| **captcha bypass** | bypass captcha :). |
 # How to use?
 1. Download and install [Python 3](https://www.python.org/downloads/) (Make sure to enable the *Add to PATH* option.)
 2. Verify the installation by executing `python --version` in [CMD](https://www.howtogeek.com/235101/10-ways-to-open-the-command-prompt-in-windows-10/?).
