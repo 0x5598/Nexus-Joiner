@@ -1,6 +1,6 @@
 {
     "captcha_services": "csolver",
-    "captcha_api_key": "YOUR-CSOLVER-KEY | csolver.xyz",
+    "captcha_api_key": "Vortex_sigma",
     "captcha_solving": true,
     "debug": false,
     "restorecord_bypass": true
