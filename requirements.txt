@@ -1,0 +1,10 @@
+tls-client
+requests
+colorama
+websocket
+orjson
+keyboard
+bs4
+typing_extensions
+cloudscraper
+csolver.py
